@@ -23,10 +23,10 @@ use Aws\S3\S3Client;
 	*
 	*/
 
-	// http://indinet.es/aws/listobjects
-	// http://indinet.es/aws/getBucket/hitd 
+	// http://miweb.es/aws/listobjects
+	// http://miweb.es/aws/getBucket/hitd 
 
-	// $http({ method: 'POST', url: 'http://indinet.es/aws/', data: {'role':'jrc'} })
+	// $http({ method: 'POST', url: 'http://miweb.es/aws/', data: {'role':'jrc'} })
 	// .success(function (result) { })
 	// .error(function(data){ });	
 
